@@ -6,7 +6,7 @@ Estrutura Básica de pastas Flask
 **2 -** A partir do fork, baixe os arquivos com o comando:
 <code>
 
-git clone '(url do fork)'
+git clone https://github.com/chrmorais/FlaskSkeleton.git
 
 </code>
 **3 -** Recomendo utilizar Python3 e virtualenv, siga os comandos:

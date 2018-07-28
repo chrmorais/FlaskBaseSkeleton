@@ -1,17 +1,23 @@
 # FlaskSkeleton
-Flask basic folders structure
+Estrutura Básica de pastas Flask
 
-**1 -** Clone or download repository.
+**1 -** Faça um fork do projeto.
 
-**2 -** If you wanna work under virtualenv, create it with:
+**2 -** A partir do fork, baixe os arquivos com o comando:
+<code>
+
+git clone <url do seu projeto>
+
+</code>
+**3 -** Recomendo utilizar Python3 e virtualenv, siga os comandos:
 
 <code>
-  
-    virtualenv venv
-  
-    source /venv/bin/activate
-    
-    pip install flask
-  
-</code>
 
+    Python3 -m venv .venv
+
+    . ./venv/bin/activate
+
+    pip install -U pip setuptools wheel
+    pip install -U flask
+
+</code>

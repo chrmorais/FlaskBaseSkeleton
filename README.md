@@ -1,4 +1,4 @@
-# FlaskSkeleton
+# FlaskBaseSkeleton
 Estrutura Básica de pastas Flask
 
 ### 1. Clone o repositório
